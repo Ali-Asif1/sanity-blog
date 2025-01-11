@@ -1,7 +1,6 @@
-import exp from "constants"
 
 
-const blog = {
+export default {
     name:'blog',
     title:'Blog',
     type:'document',
@@ -41,5 +40,3 @@ const blog = {
         },
     ],
 }
-
-export default blog;
